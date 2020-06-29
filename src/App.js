@@ -15,15 +15,9 @@ class App extends Component {
           <p>
             Welcome
           </p>
-          <a
-          class App extends Component {
-render() {
-  return (
+
       <a href="/register.html">Register New Contact for SMS</a>
-  );
-}
-}
-          </a>
+
         </header>
       </div>
     );
